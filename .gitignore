@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ts files
+build/
+src/config.json
+
+# Apple files
+.DS_Store
+
+# Config
+src/config.json
+
+# Database
+src/Database/timezoneBot.session.sql
+timezoneBot.session.sql
